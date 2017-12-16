@@ -1,0 +1,8 @@
+$ git clone https://github.com/thachphamblog/hoc-git
+$ cd hoc-git
+$ echo "# Huong dan Git co ban" > README.md
+$ git add README.md
+$ git commit -m "First commit on Github"
+
+
+git push origin master // dua lên git
